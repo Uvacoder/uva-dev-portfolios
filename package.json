@@ -16,6 +16,9 @@
     "normalize.css": "^8.0.1",
     "nuxt": "^2.14.6"
   },
+  "engines": {
+    "node": "16.18.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.12.16",
